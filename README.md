@@ -33,7 +33,7 @@ This interpretation will not be graded, but a Github shows the contributors to a
 **Question 1.1**: Fill in the __github username__ of the class mate to whose repository you have contributed. 
 
 [Fill in here]
-
+Tirena822
 ### Part 2: Analyzing various linear models
 
 In this part, we will summarize a dataset and create a couple of customized tables. Then, we will compare a couple of linear models to each other, and see which linear model fits the data the best, and yields the most interesting results.
@@ -66,7 +66,7 @@ datasummary((growth + rgdp60)*treat ~Mean+SD+Min+Max,
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
 
 ***Answer:***
-
+the growth rate in countries with a revolution has a higher standard deviation of 2.11, indicating a larger variability in growth rates compared to countires without revolution, which have a standard deviation of 1.28.
 - 
 
 
